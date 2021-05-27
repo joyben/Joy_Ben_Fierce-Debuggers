@@ -1,1 +1,3 @@
-I am a fresher and i have taken training in software testing from a reputed institute.I am a B.Sc.(B.Ed) by education.I have learnt functional and non-functional testing during my software testing training.I will be quick to learn and perform in a software testing project.
+I am a fresher and i have taken training in software testing from a reputed institute.I am a B.Sc.(B.Ed) by education.I have learnt functional and non-functional testing during my software testing training.I have written test cases for the manual execution and reported bugs in Jira.I will be quick to learn and perform in a software testing project.
+
+
